@@ -6,6 +6,8 @@ public class Practica4_1{
     	m=n.toUpperCase();
     	System.out.println(m);
     }
+
+    
 	public static void main(String[] args) 
 
 	{
